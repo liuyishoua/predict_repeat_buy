@@ -3,6 +3,8 @@ A project to predict the repeat buy rate for Tianmao. The task is open for every
 
 Dataset can be download on [阿里云天池之天猫复购率预测](https://tianchi.aliyun.com/competition/entrance/231576/introduction?lang=zh-cn)
 
+![data](./images/data.png)
+
 ## Overview
 
 We divided the predict task into four parts: 1. exploring data 2. feature engineering 3. create model 4. model optimization
@@ -31,7 +33,14 @@ pip install -r requirements.txt
 
 If you cannot install some libraries like **imblearn** or **torch**, it doesn's matter. Just go ahead, we use them in the part four (Model optimization). 
 
-## Something intriguing
+## Some figures
 
-place for image.
-
+<p align="center">
+  <img width="600" src="./images/1.png" alt="1">
+</p>
+<p align="center">
+  <img width="600" src="./images/2.png" alt="2">
+</p>
+<p align="center">
+  <img width="600" src="./images/3.png" alt="3">
+</p>
