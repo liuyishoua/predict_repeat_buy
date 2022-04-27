@@ -3,7 +3,13 @@ A project to predict the repeat buy rate for Tianmao. The task is open for every
 
 Dataset can be download on [阿里云天池之天猫复购率预测](https://tianchi.aliyun.com/competition/entrance/231576/introduction?lang=zh-cn)
 
-![data](./images/data.png)
+<p align="center">
+  <img width="400" src="./images/data.png" alt="data">
+</p>
+<p align="center">
+datasets position and structure
+</p>
+
 
 ## Overview
 
@@ -43,4 +49,7 @@ If you cannot install some libraries like **imblearn** or **torch**, it doesn's 
 </p>
 <p align="center">
   <img width="600" src="./images/3.png" alt="3">
+</p>
+<p align="center">
+  <img width="600" src="./images/4.png" alt="4">
 </p>
