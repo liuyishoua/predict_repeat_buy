@@ -1,5 +1,5 @@
 ## Introduction
-A project to predict the repeat buy rate for Tianmao. The task is open for everyone in Tianci platform. Although, it's a learning contest, it does not mean simple. In this project, we are ranked 120th among 7,000 teams which obtained 0.6871 for metric AUC.
+A project to predict the repeat buy rate for Tianmao. The task is open for everyone in Tianci platform. Although, it's a learning contest, it does not mean simple. In this project, we are ranked 132th among 7,041 teams which obtained 0.6871 for metric AUC.
 
 Dataset can be download on [阿里云天池之天猫复购率预测](https://tianchi.aliyun.com/competition/entrance/231576/introduction?lang=zh-cn)
 
